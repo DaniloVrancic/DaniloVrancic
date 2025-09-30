@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Danilo, and I am a trained computer scientist from the University of Banja Luka.
+My name is Danilo, and I am a Software Engineer from the University of Banja Luka.
 I'm very interested in all sorts of coding problems, currently working with Java and various mobile development frameworks.
 
 ---
