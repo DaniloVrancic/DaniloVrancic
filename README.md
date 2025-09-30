@@ -22,9 +22,8 @@ Here are some of the languages, frameworks, and tools I’ve worked with (feel f
 ---
 
 ### ✨ *Thanks for stopping by! Feel free to contact me!*  
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- [Portfolio Website](https://your-portfolio.com)  
-- [Email](mailto:your@email.com)  
+- [LinkedIn](https://www.linkedin.com/in/danilo-vran%C4%8Di%C4%87-612a0837b/)  
+- [Email](mailto:danilovrancic0@gmail.com)  
 
 ---
 
