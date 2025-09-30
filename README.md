@@ -32,7 +32,7 @@ Here are some of the languages, frameworks, and tools I’ve worked with (feel f
 - **Tools & Platforms:**
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" /></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" /></a>
-    <a href="https://min.io/" target="_blank"><img src="./assets/minio/minio-1.svg" alt="MinIO" width="50" /></a>  
+    <a href="https://min.io/" target="_blank"><img src="./assets/minio/minio-1.svg" alt="MinIO" width="50" height="50" /></a>  
 ---
 
 
