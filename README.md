@@ -12,14 +12,14 @@ I'm very interested in all sorts of coding problems, currently working with Java
 ### 🛠️ Tech Stack / Skills
 Here are some of the languages, frameworks, and tools I’ve worked with (feel free to expand):
 
-- <span style="font-size:18px"><b>Languages:</b></span
+- <span style="font-size:18px"><b>Languages:</b></span>
     <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="50" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" /></a>
     <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="50" /></a>
     <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" title="SQL" width="50" /></a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="./assets/sql/sql-logo.svg" alt="SQL" title="SQL" width="50" height="50" /></a>
     <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="50" /></a>
 - <span style="font-size:18px"><b>Frameworks & Libraries:</b></span>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="50" /></a>
