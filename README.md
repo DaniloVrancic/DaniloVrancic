@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" alt="Welcome Banner" width="100%"/>
+  <img src="https://tinyurl.com/2py8pjfc" alt="Welcome Banner" width="100%"/>
 </p>
 
 ## Hi there 👋
