@@ -38,7 +38,8 @@ Here are some of the languages, frameworks, and tools I’ve worked with (feel f
 
 ### 📌 Featured Projects
 - [**Incident Reporter**](https://github.com/DaniloVrancic/pisio-incident-reporter) – Full-stack web app for anonymous incident reporting (Spring Boot + Angular + MySQL)  
-- [**My Secure Forum**](https://github.com/DaniloVrancic/my-internet-forum) – Full-stack forum project which implements the best security pratcices utilizing Spring Security  
+- [**My Secure Forum**](https://github.com/DaniloVrancic/my-internet-forum) – Full-stack forum project which implements the best security pratcices utilizing Spring Security
+- [**S3 Client**](https://github.com/DaniloVrancic/s3-client) - Mobile App built in Flutter to support S3 compatible storage providers. Operations such as uploading/downloading, sharing objects with Presigned URL-s, but also intuitive hierarchical design implemented in the project.
 
 ---
 
